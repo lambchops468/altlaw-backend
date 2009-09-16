@@ -2,7 +2,7 @@ class Ca1
   include Expect
 
   def accept_host
-    "www.ca1.uscourts.gov"
+    "www.c41.uscourts.gov"
   end
 
   def accept?(download)
